@@ -17,6 +17,10 @@ matplotlib = "*"
 opencv-python = "*"
 torch = "*"
 torchvision = "*"
+scikit-image = "*"
+tensorboard = "*"
+future = "*"
+tensorflow = "*"
 
 [requires]
 python_version = "3.6"
