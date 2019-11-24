@@ -1,3 +1,7 @@
 /.venv/
+data/
+runs/
+.vscode/
 
+*.pth
 .ipynb_checkpoints
